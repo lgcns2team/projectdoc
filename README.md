@@ -1,5 +1,26 @@
 # 프로젝트 관리 시스템
 
+# 팀원 정보
+
+## 개인 블로그 링크
+- 이수림 : https://velog.io/@surimviaa/posts
+- 최성 : https://velog.io/@sung000054/posts
+- 홍형준 : https://velog.io/@hong_eh/posts
+- 조성민 : https://itseongmin.tistory.com/
+- 조현선 : https://velog.io/@hsuncho/posts
+- 강채민 : https://rkdcoals23.tistory.com/
+- 조재호 : https://he6465.tistory.com/
+
+## 개인 Github 이메일/링크
+- 조재호 : [he6465@naver.com](mailto:he6465@naver.com) / https://github.com/he6465
+- 홍형준 : [hhj4498@naver.com](mailto:hhj4498@naver.com) / https://github.com/Hong9915
+- 강채민 : [rkdcoals23@naver.com](mailto:rkdcoals23@naver.com) / https://github.com/Pazinpo
+- 조현선: [hsuncho@naver.com](mailto:hsuncho@naver.com) / https://github.com/hsuncho
+- 이수림: [surimviaa@naver.com](mailto:surimviaa@naver.com) / https://github.com/surimleeee
+- 조성민 :  [seongmincho33@gmail.com](mailto:seongmincho33@gmail.com) /  https://github.com/seongmincho33
+- 최성 : [sung000054@gmail.com](mailto:sung000054@gmail.com)  / https://github.com/StarChoiMarine
+
+
 ## 프로젝트 개요
 이 프로젝트는 GitHub를 활용한 체계적인 프로젝트 관리 시스템입니다. 회의록, 멘토링 일지, 프로젝트 문서화를 통해 효율적인 협업과 프로젝트 추적을 지원합니다.
 
@@ -101,3 +122,4 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
+
