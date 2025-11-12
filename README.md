@@ -1,14 +1,3 @@
-# 팀원 정보
-
-## 개인 Github 이메일/링크
-- 조재호 : [he6465@naver.com](mailto:he6465@naver.com) / https://github.com/he6465
-- 홍형준 : [hhj4498@naver.com](mailto:hhj4498@naver.com) / https://github.com/Hong9915
-- 강채민 : [rkdcoals23@naver.com](mailto:rkdcoals23@naver.com) / https://github.com/Pazinpo
-- 조현선: [hsuncho@naver.com](mailto:hsuncho@naver.com) / https://github.com/hsuncho
-- 이수림: [surimviaa@naver.com](mailto:surimviaa@naver.com) / https://github.com/surimleeee
-- 조성민 :  [seongmincho33@gmail.com](mailto:seongmincho33@gmail.com) /  https://github.com/seongmincho33
-- 최성 : [sung000054@gmail.com](mailto:sung000054@gmail.com)  / https://github.com/StarChoiMarine
-
 ---
 
 # 프로젝트 관리 시스템
@@ -46,6 +35,19 @@ project/
 - 🔄 Git 기반 버전 관리
 - 📋 이슈 및 작업 추적
 - 📊 칸반 보드 (GitHub Projects)를 통한 작업 관리
+
+# 팀원 정보
+
+## 개인 Github 이메일/링크
+- 조재호 : [he6465@naver.com](mailto:he6465@naver.com) / https://github.com/he6465
+- 홍형준 : [hhj4498@naver.com](mailto:hhj4498@naver.com) / https://github.com/Hong9915
+- 강채민 : [rkdcoals23@naver.com](mailto:rkdcoals23@naver.com) / https://github.com/Pazinpo
+- 조현선: [hsuncho@naver.com](mailto:hsuncho@naver.com) / https://github.com/hsuncho
+- 이수림: [surimviaa@naver.com](mailto:surimviaa@naver.com) / https://github.com/surimleeee
+- 조성민 :  [seongmincho33@gmail.com](mailto:seongmincho33@gmail.com) /  https://github.com/seongmincho33
+- 최성 : [sung000054@gmail.com](mailto:sung000054@gmail.com)  / https://github.com/StarChoiMarine
+
+
 
 ## 시작하기
 
@@ -122,6 +124,7 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
+
 
 
 
