@@ -22,7 +22,7 @@ project/
 
 ## 주요 기능
 - 📝 체계적인 회의록 관리
-    - https://docs.google.com/spreadsheets/d/1yoWcS1NOqiVwO4hd3HnTsQSLLbCcqbNiaksJmiTEI7c/edit?gid=927658092#gid=927658092
+    - [https://docs.google.com/spreadsheets/d/1yoWcS1NOqiVwO4hd3HnTsQSLLbCcqbNiaksJmiTEI7c/edit?gid=927658092#gid=927658092](https://www.notion.so/2a4fef49d8d580b0af03e2b2d05ce101)
 - 👨‍🏫 멘토링 일지 추적
   - 이수림 : https://velog.io/@surimviaa/posts
   - 최성 : https://velog.io/@sung000054/posts
@@ -124,6 +124,7 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
+
 
 
 
