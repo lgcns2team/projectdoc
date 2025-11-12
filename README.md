@@ -31,6 +31,7 @@ project/
   - 조현선 : https://velog.io/@hsuncho/posts
   - 강채민 : https://rkdcoals23.tistory.com/
   - 조재호 : https://he6465.tistory.com/
+- 주제 브레인스토밍 : [https://www.notion.so/AI-IT-2a8fef49d8d5800a8eb9e15237052a59]
 - 📚 프로젝트 문서화
 - 🔄 Git 기반 버전 관리
 - 📋 이슈 및 작업 추적
@@ -124,6 +125,7 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
+
 
 
 
