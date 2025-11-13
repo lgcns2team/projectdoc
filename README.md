@@ -126,6 +126,11 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
 
+## 링크
+
+- 애자일 참고링크 : https://padlet.com/kiwonkyung/lg-cns-am-inspire-camp-3-agile-w-s-16umyygne6mubgmo
+
+
 
 
 
